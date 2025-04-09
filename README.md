@@ -26,3 +26,14 @@ Make sure you have Python 3.7 or higher installed. Then install the required pac
 
 ```bash
 pip install opencv-python mediapipe
+
+👨‍💻 Author
+Kunal Jadhao
+An engineering enthusiast passionate about real-time AI, Computer Vision, and Robotics.
+
+📬 Contributions
+Feel free to fork the repo, raise issues, or submit pull requests. Collaboration is always welcome!
+📄 License
+This project is open-source and free to use under the MIT License.
+
+
