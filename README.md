@@ -19,13 +19,14 @@ A collection of simple yet effective computer vision projects using **OpenCV** a
 - **Description**: Applies color-based masking using OpenCV to isolate objects or regions of interest.
 
 ---
+👨‍💻 Author
+Kunal Jadhao
+An engineering enthusiast passionate about real-time AI, Computer Vision, and Robotics.
 
-## ⚙️ Requirements
-
-Make sure you have Python 3.7 or higher installed. Then install the required packages:
-
-```bash
-pip install opencv-python mediapipe
+📬 Contributions
+Feel free to fork the repo, raise issues, or submit pull requests. Collaboration is always welcome!
+📄 License
+This project is open-source and free to use under the MIT License.
 
 👨‍💻 Author
 Kunal Jadhao
@@ -35,5 +36,13 @@ An engineering enthusiast passionate about real-time AI, Computer Vision, and Ro
 Feel free to fork the repo, raise issues, or submit pull requests. Collaboration is always welcome!
 📄 License
 This project is open-source and free to use under the MIT License.
+
+## ⚙️ Requirements
+
+Make sure you have Python 3.7 or higher installed. Then install the required packages:
+
+```bash
+pip install opencv-python mediapipe
+
 
 
