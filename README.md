@@ -21,10 +21,13 @@ A collection of simple yet effective computer vision projects using **OpenCV** a
 ---
 👨‍💻 Author
 Kunal Jadhao
+
 An engineering enthusiast passionate about real-time AI, Computer Vision, and Robotics.
 
 📬 Contributions
 Feel free to fork the repo, raise issues, or submit pull requests. Collaboration is always welcome!
+
+
 📄 License
 This project is open-source and free to use under the MIT License.
 
